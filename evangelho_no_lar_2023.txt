@@ -142,3 +142,67 @@ Dia do evangelho : 02/10/2023
 Capítulo : 13
 Item : 19
 
+Dia do evangelho : 16/10/2023
+Capítulo : 9
+Item : 8
+
+Dia do evangelho : 18/10/2023
+Capítulo : 7
+Item : 9
+
+Dia do evangelho : 23/10/2023
+Capítulo : 19
+Item : 2
+
+Dia do evangelho : 30/10/2023
+Capítulo : 2
+Item : 6
+
+Dia do evangelho : 31/10/2023
+Capítulo : 5
+Item : 13
+
+Dia do evangelho : 06/11/2023
+Capítulo : 17
+Item : 10
+
+Dia do evangelho : 07/11/2023
+Capítulo : 2
+Item : 8
+
+Dia do evangelho : 08/11/2023
+Capítulo : 19
+Item : 9
+
+Dia do evangelho : 13/11/2023
+Capítulo : 26
+Item : 9
+
+Dia do evangelho : 21/11/2023
+Capítulo : 26
+Item : 6
+
+Dia do evangelho : 22/11/2023
+Capítulo : 23
+Item : 4
+
+Dia do evangelho : 27/11/2023
+Capítulo : 2
+Item : 6
+
+Dia do evangelho : 04/12/2023
+Capítulo : 7
+Item : 10
+
+Dia do evangelho : 07/12/2023
+Capítulo : 19
+Item : 1
+
+Dia do evangelho : 11/12/2023
+Capítulo : 23
+Item : 9
+
+Dia do evangelho : 18/12/2023
+Capítulo : 1
+Item : 8
+

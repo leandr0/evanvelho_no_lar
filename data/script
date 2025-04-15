@@ -1,0 +1,2074 @@
+INSERT INTO charpter 
+(number, title)
+VALUES (1,"Não vim destruir a lei");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (2,"Meu Reino não é deste mundo");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (3,"Há muitas moradas na casa de meu Pai");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (4,"Ninguém poderá ver o Reino de Deus se não nascer de novo");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (5,"Bem-aventurados os aflitos");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (6,"O Cristo Consolador");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (7,"Bem-aventurados os pobres de espírito");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (8,"Bem-aventurados os que têm puro o coração");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (9,"Bem-aventurados os que são brandos e pacíficos");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (10,"Bem-aventurados os que são misericordiosos");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (11,"Amar o próximo como a si mesmo");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (12,"Amai os vossos inimigos");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (13,"Não saiba a vossa mão esquerda o que dê a vossa mão direita");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (14,"Honrai a vosso pai e a vossa mãe");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (15,"Fora da caridade não há salvação");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (16,"Não se pode servir a Deus e a Mamon");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (17,"Sede perfeitos");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (18,"Muitos os chamados, poucos os escolhidos");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (19,"A fé transporta montanhas");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (20,"Os trabalhadores da última hora");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (21,"Haverá falsos cristos e falsos profetas");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (22,"Não separeis o que Deus juntou");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (23,"Estranha moral");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (24,"Não ponhais a candeia debaixo do alqueire");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (25,"Buscai e achareis");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (26,"Dai gratuitamente o que gratuitamente recebestes");
+
+INSERT INTO charpter 
+(number, title)
+VALUES (27,"Pedi e obtereis");
+
+
+
+---sub-charpter
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (1,"Não vim destruir a lei");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (1,"Moisés");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (1,"O Cristo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (1,"O Espiritismo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (1,"Aliança da Ciência e da Religião");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (1,"A nova era");
+
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (2,"Meu Reino não é deste mundo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (2,"A vida futura");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (2,"A realeza de Jesus");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (2,"O ponto de vista");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (2,"Uma realeza terrestre");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (3,"Há muitas moradas na casa de meu Pai");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (3,"Diferentes estados da alma na erraticidade");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (3,"Diferentes categorias de mundos habitados");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (3,"Destinação da Terra. Causas das misérias humanas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (3,"Mundos inferiores e mundos superiores");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (3,"Mundos de expiações e de provas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (3,"Mundos regeneradores");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (3,"Progressão dos mundos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (4,"Ninguém poderá ver o Reino de Deus se não nascer de novo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (4,"Ressurreição e reencarnação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (4,"A reencarnação fortalece os laços de família, ao passo que a unicidade da existência os rompe");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (4,"Limites da encarnação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (4,"Necessidade da encarnação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (4,"Necessidade da encarnação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Bem-aventurados os aflitos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Justiça das aflições");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Causas atuais das aflições");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Causas anteriores das aflições");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Esquecimento do passado");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Motivos de resignação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"O suicídio e a loucura");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Bem e mal sofrer");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"O mal e o remédio");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"A felicidade não é deste mundo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Perda de pessoas amadas. Mortes prematuras");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Se fosse um homem de bem, teria morrido");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Os tormentos voluntários");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"A desgraça real");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"A melancolia");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Provas voluntárias. O verdadeiro cilício");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Dever-se-á pôr termo às provas do próximo?");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Será lícito abreviar a vida de um doente que sofra sem esperança de cura?");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Sacrifício da própria vida");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (5,"Proveito dos sofrimentos para outrem");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (6,"O jugo leve");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (6,"Consolador prometido");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (6,"Advento do Espírito de Verdade");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (7,"O que se deve entender por pobres de espírito");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (7,"Aquele que se eleva será rebaixado");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (7,"Mistérios ocultos aos doutos e aos prudentes");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (7,"O orgulho e a humildade");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (7,"Missão do homem inteligente na Terra");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (8,"Simplicidade e pureza de coração");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (8,"Pecado por pensamentos. Adultério");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (8,"Verdadeira pureza. Mãos não lavadas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (8,"Escândalos. Se a vossa mão é motivo de escândalo, cortai-a");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (8,"Deixai que venham a mim as criancinhas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (8,"Bem-aventurados os que têm fechados os olhos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (9,"Injúrias e violências");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (9,"A afabilidade e a doçura");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (9,"A paciência");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (9,"Obediência e resignação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (9,"A cólera");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (10,"Perdoai, para que Deus vos perdoe");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (10,"Reconciliação com os adversários");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (10,"O sacrifício mais agradável a Deus");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (10,"O argueiro e a trave no olho");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (10,"Não julgueis, para não serdes julgados. Atire a primeira pedra aquele que estiver sem pecado");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (10,"Perdão das ofensas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (10,"A indulgência");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (10,"É permitido repreender os outros, notar as imperfeições de outrem, divulgar o mal de outrem?");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (11,"O mandamento maior. Fazermos aos outros o que queiramos que os outros nos façam.Parábola dos Credores e dos Devedores");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (11,"Dai a César o que é de César");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (11,"A lei de amor");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (11,"O egoísmo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (11,"A fé e a caridade");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (11,"Caridade para com os criminosos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (11,"Deve-se expor a vida por um malfeitor?");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (12,"Retribuir o mal com o bem");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (12,"Os inimigos desencarnados");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (12,"Se alguém vos bater na face direita, apresentai-lhe também a outra");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (12,"A vingança");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (12,"O ódio");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (12,"O duelo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"Fazer o bem sem ostentação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"Os infortúnios ocultos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"O óbolo da viúva");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"Convidar os pobres e os estropiados. Dar sem esperar retribuição");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"A caridade material e a caridade moral");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"A beneficência");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"A piedade");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"Os órfãos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"Benefícios pagos com a ingratidão");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (13,"Beneficência exclusiva");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (14,"Honrai a vosso pai e a vossa mãe");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (14,"Piedade filial");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (14,"Quem é minha mãe e quem são meus irmãos?");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (14,"A parentela corporal e a parentela espiritual");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (14,"A ingratidão dos filhos e os laços de família");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (15,"O de que precisa o Espírito para ser salvo. Parábola do Bom Samaritano");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (15,"O mandamento maior");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (15,"Necessidade da caridade, segundo Paulo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (15,"Fora da Igreja não há salvação. Fora da verdade não há salvação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (15,"Fora da caridade não há salvação");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Salvação dos ricos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Preservar-se da avareza");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Jesus em casa de Zaqueu");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Parábola do Mau Rico");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Parábola dos Talento");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Utilidade providencial da riqueza. Provas da riqueza e da miséria");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Desigualdade das riquezas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"A verdadeira propriedade");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Emprego da riqueza");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Desprendimento dos bens terrenos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (16,"Transmissão da riqueza");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"Caracteres da perfeição");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"O homem de bem");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"Os bons espíritas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"Parábola do Semeador");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"O dever");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"A virtude");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"Os superiores e os inferiores");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"O homem no mundo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (17,"Cuidar do corpo e do espírito");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (18,"Parábola do Festim das Bodas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (18,"A porta estreita");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (18,"Nem todos os que dizem: “Senhor! Senhor!” — entrarão no Reino dos Céus");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (18,"Muito se pedirá àquele que muito recebeu");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (18,"Dar-se-á àquele que tem");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (18,"Pelas suas obras é que se reconhece o cristão");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (19,"Poder da fé");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (19,"A fé religiosa. Condição da fé inabalável");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (19,"Parábola da Figueira que Secou");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (19,"A fé: mãe da esperança e da caridade");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (19,"A fé humana e a divina");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (20,"Os trabalhadores da última hora");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (20,"Os últimos serão os primeiros");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (20,"Missão dos espíritas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (20,"Os obreiros do Senhor");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (21,"Conhece-se a árvore pelo fruto");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (21,"Missão dos profetas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (21,"Prodígios dos falsos profetas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (21,"Não creais em todos os Espíritos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (21,"Os falsos profetas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (21,"Caracteres do verdadeiro profeta");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (21,"Os falsos profetas da erraticidade");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (21,"Jeremias e os falsos profetas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (22,"Indissolubilidade do casamento");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (22,"O divórcio");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (23,"Odiar os pais");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (23,"Abandonar pai, mãe e filhos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (23,"Deixar aos mortos o cuidado de enterrar seus mortos");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (23,"Não vim trazer a paz, mas a divisão");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (24,"Candeia sob o alqueire. Por que fala Jesus por parábolas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (24,"Não vades ter com os gentios");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (24,"Não são os que gozam saúde que precisam de médico");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (24,"Coragem da fé");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (24,"Carregar sua cruz. Quem quiser salvar a vida, perdê-la-á");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (25,"Ajuda-te a ti mesmo, que o céu te ajudará");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (25,"Observai os pássaros do céu");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (25,"Não vos afadigueis pela posse do ouro");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (26,"Dom de curar");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (26,"Preces pagas");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (26,"Mercadores expulsos do templo");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (26,"Mediunidade gratuita");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (27,"Qualidades da prece");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (27,"Eficácia da prece");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (27,"Ação da prece. Transmissão do pensamento");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (27,"Preces inteligíveis");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (27,"Da prece pelos mortos e pelos Espíritos sofredores");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (27,"Maneira de orar");
+
+INSERT INTO sub_charpter
+(charpter_id,title)
+VALUES (27,"Felicidade que a prece proporciona");
+
+
+
+--Item
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(1,"",41,1);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(2,"",41,2);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(3,"",43,3);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(4,"",43,3);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(5,"",44,4);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(6,"",44,4);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(7,"",44,4);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(8,"",45,5);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(9,"",46,6);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(10,"",47,6);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(11,"",48,6);
+/**
+7	Meu Reino não é deste mundo	2
+8	A vida futura	2
+9	A realeza de Jesus	2
+10	O ponto de vista	2
+11	Uma realeza terrestre	2
+**/
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(1,"",51,7);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(2,"",51,8);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(3,"",52,8);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(4,"",53,9);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(5,"",53,10);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);
+
+INSERT INTO item
+(number,text,page,sub_charpter_id)
+VALUES(,"",,);

@@ -3,7 +3,7 @@ posicoes = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q",
 
 qtde_posicoes = len(posicoes)
 
-versao = 702
+versao = 650
 """
 A - Z = 1 - 26
 A[A-Z] = 27 - 52
