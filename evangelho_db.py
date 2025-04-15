@@ -186,7 +186,7 @@ class EvangelhoDB:
 
         return history
 
-    def searchItem(self , history : History):
+    def searchItem(self , history: History):
 
         self.__get_db_connection__()
 

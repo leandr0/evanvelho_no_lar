@@ -10,10 +10,10 @@ def set_cap(list_cap,size):
 
 def set_items(name,page,items):
     return { 'name' :  name ,'page' : page , 'items' : items}
-
+'''
 def set_titles(name,item):
     return { 'name' :  name , 'item' : item}
-
+'''
 
 
 CAP_01_NAME = "Não vim destruir a lei"
@@ -48,20 +48,6 @@ capitulos = {}
 
 capitulo_01 = []
 set_cap(capitulo_01,11)
-
-set_titles('As três revelações: Moisés, Cristo, Espiritismo', 1)
-set_titles('As três revelações: Moisés, Cristo, Espiritismo', 2)
-set_titles('As três revelações: Moisés, Cristo, Espiritismo', 3)
-set_titles('As três revelações: Moisés, Cristo, Espiritismo', 4)
-set_titles('As três revelações: Moisés, Cristo, Espiritismo', 5)
-set_titles('As três revelações: Moisés, Cristo, Espiritismo', 6)
-set_titles('As três revelações: Moisés, Cristo, Espiritismo', 7)
-
-set_titles('Aliança da Ciência e da Religião', 8)
-
-set_titles('Instruções dos Espíritos', 9)
-set_titles('Instruções dos Espíritos', 10)
-set_titles('Instruções dos Espíritos', 11)
 
 capitulos[1] = set_items(CAP_01_NAME ,41, capitulo_01)
 """
